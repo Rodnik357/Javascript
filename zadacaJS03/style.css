@@ -1,0 +1,44 @@
+body {
+  background-color: bisque;
+}
+
+#igra {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 2vw;
+  padding: 0px;
+  box-sizing: border-box;  
+  border: 5px solid lightseagreen;
+  width: 91vw;
+  font-size: medium ;
+}
+
+p, h1, label, button {
+  color: lightseagreen;
+}
+
+#izlazniText {
+  color: bisque; 
+  background-color: orange;
+}
+
+#brojPokusaja {
+  color: lightseagreen;
+}
+
+input {
+  background-color: antiquewhite;
+
+}
+
+button {
+  background-color: antiquewhite;
+  box-shadow: 5px;
+  width: 25vw;
+  height: 8vh;
+  font-size: medium;
+}
+
